@@ -21,6 +21,18 @@ body {
   background-color: rgb(53, 82, 74);
 }
 
+@media (min-width: 600px) {
+  body {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 12px;
+  }
+}
+
 /*Canvas P5js*/
 canvas {
   display: block;
@@ -73,7 +85,7 @@ nav {
 }
 
 #contactLinks > a {
-  width: 100%;  
+  width: 100%;
   border: 2px var(--white) solid;
   padding: 5px 10px;
   margin-bottom: 2%;
