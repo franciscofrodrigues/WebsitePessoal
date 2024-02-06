@@ -4,4 +4,4 @@ Dado o enunciado para o Exercício 1 – Website Pessoal, optei por uma abordage
 
 ## Links Úteis
 [Endereço do repositório](https://github.com/franciscofrodrigues/franciscofrodrigues.github.io)<br>
-[Endereço do website](https://franciscofrodrigues.github.io)
+[Endereço do website](https://franciscofrodrigues.github.io/WebsitePessoal)
